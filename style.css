@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(135deg, #b0d66f, #2575fc);
+}
+
+.button {
+  padding: 20px;
+  margin: 1px 3px;
+  border: 2px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.row {
+  margin: 6px 0;
+  width: 14vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.row input {
+  font-size: 21px;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 6px;
+}

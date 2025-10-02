@@ -1,0 +1,39 @@
+.text-centre {
+  text-align: center;
+}
+
+.bg-red {
+  /* background-color: red; */
+}
+
+.max-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.item-centre {
+  align-items: center;
+}
+
+.cust {
+  margin: 12px;
+  font-size: 12px;
+}
+
+
+    .footer {
+    position: absolute;      /* Position relative to the nearest positioned ancestor or body */
+    bottom: 10px;            /* Distance from the bottom */
+    right: 10px;             /* Distance from the right */
+    font-size: 1rem;         /* Font size */
+    color: #ffffff;          
+    font-family: 'Arial', sans-serif;
+    opacity: 0.8;         
+}
